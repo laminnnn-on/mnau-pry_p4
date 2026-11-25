@@ -1,0 +1,24 @@
+{
+  "name": "practical4",
+  "version": "1.0.0",
+  "description": "Практична робота №4 — Node.js, Express, EventEmitter, Chalk",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "events": "node events-demo.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "eventemitter",
+    "chalk",
+    "es-modules"
+  ],
+  "author": "Student",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "express": "^4.21.0"
+  }
+}
